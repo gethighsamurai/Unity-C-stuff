@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 1547c4dd88e1cc544990bf3138c5ff66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5951514485372335920
+    second: My_Objects_0
+  - first:
+      213: 3779387774142138530
+    second: My_Objects_1
+  - first:
+      213: 5525991508233069912
+    second: My_Objects_2
+  - first:
+      213: -4549382057017530141
+    second: My_Objects_3
+  - first:
+      213: 42040363033177318
+    second: My_Objects_4
+  - first:
+      213: 4344467946911284854
+    second: My_Objects_5
+  - first:
+      213: -41687862420940153
+    second: My_Objects_6
+  - first:
+      213: -7569214373493757887
+    second: My_Objects_7
+  - first:
+      213: -1946827478926846853
+    second: My_Objects_8
+  - first:
+      213: -7598952440109387544
+    second: My_Objects_0
+  - first:
+      213: 2302890958417431902
+    second: My_Objects_1
+  - first:
+      213: -420418850811120542
+    second: My_Objects_2
+  - first:
+      213: -1806202364070778285
+    second: My_Objects_3
+  - first:
+      213: 7872590092878420464
+    second: My_Objects_4
+  - first:
+      213: 1451501608600736146
+    second: My_Objects_5
+  - first:
+      213: -7100741037855561704
+    second: My_Objects_6
+  - first:
+      213: -8500966109351180885
+    second: My_Objects_7
+  - first:
+      213: 1151406286275740957
+    second: My_Objects_8
+  - first:
+      213: 6379534751355249505
+    second: My_Objects_9
+  - first:
+      213: 666366116369369450
+    second: My_Objects_10
+  - first:
+      213: -5473778875286593466
+    second: My_Objects_11
+  - first:
+      213: 4940754522432900189
+    second: FullHeart-UI
+  - first:
+      213: 7748683788887112645
+    second: HalfHeart-UI
+  - first:
+      213: -8180750698342511238
+    second: EmptyHeart-UI
+  - first:
+      213: -7161586790307791028
+    second: QuestionMark
+  - first:
+      213: -2824159497064185404
+    second: My_Objects_16
+  - first:
+      213: 7771367163247213013
+    second: CoinUI
+  - first:
+      213: -5191767865360013655
+    second: My_Objects_18
+  - first:
+      213: 2523160120405198044
+    second: My_Objects_19
+  - first:
+      213: 6216120301931896946
+    second: Coin1
+  - first:
+      213: 2290331261332339632
+    second: Coin2
+  - first:
+      213: -8117604413592095957
+    second: Coin3
+  - first:
+      213: 8154976297794346454
+    second: Coin4
+  - first:
+      213: 6677617273214592394
+    second: Heart1
+  - first:
+      213: 2040346469602229422
+    second: Heart2
+  - first:
+      213: 4083798846520902905
+    second: Heart3
+  - first:
+      213: -1026643620574847272
+    second: Heart4
+  - first:
+      213: 732640975108708249
+    second: ExclamationMark
+  - first:
+      213: -2695525153480610196
+    second: My_Objects_29
+  - first:
+      213: -8675091645654751791
+    second: My_Objects_30
+  - first:
+      213: 1849764076315154207
+    second: WoodenSword-Item
+  - first:
+      213: -2752173465962513514
+    second: My_Objects_32
+  - first:
+      213: 1338412672665317018
+    second: My_Objects_33
+  - first:
+      213: 8931528600651839585
+    second: Bed-messy
+  - first:
+      213: 6664893830600601081
+    second: Cloak
+  - first:
+      213: 6997068107661792847
+    second: DialogueBox1
+  - first:
+      213: -5948076766940507266
+    second: DialogueBox2
+  - first:
+      213: -2267971019871688144
+    second: My_Objects_38
+  - first:
+      213: -2624791112601754768
+    second: My_Objects_39
+  - first:
+      213: -9019533320249341641
+    second: My_Objects_40
+  - first:
+      213: 3099611396684897148
+    second: My_Objects_41
+  - first:
+      213: -4649709345164737944
+    second: My_Objects_42
+  - first:
+      213: 2159743094131326693
+    second: My_Objects_43
+  - first:
+      213: 2238202334356059732
+    second: My_Objects_44
+  - first:
+      213: 5668190823532538951
+    second: My_Objects_45
+  - first:
+      213: 4582438728266944371
+    second: My_Objects_46
+  - first:
+      213: -983638728792136092
+    second: My_Objects_47
+  - first:
+      213: 3617852472742439314
+    second: My_Objects_48
+  - first:
+      213: -8837545810715931917
+    second: My_Objects_49
+  - first:
+      213: 7944335874101964833
+    second: My_Objects_50
+  - first:
+      213: 66528656854793533
+    second: My_Objects_51
+  - first:
+      213: 4748690673972519399
+    second: My_Objects_52
+  - first:
+      213: 2430278817817620340
+    second: My_Objects_53
+  - first:
+      213: 1762262670246040578
+    second: My_Objects_54
+  - first:
+      213: -7481798118377031403
+    second: My_Objects_55
+  - first:
+      213: -9082027835498795737
+    second: My_Objects_56
+  - first:
+      213: 2622638160983931776
+    second: My_Objects_57
+  - first:
+      213: -5139362240463942111
+    second: My_Objects_58
+  - first:
+      213: 8442860215000755254
+    second: My_Objects_59
+  - first:
+      213: 5004931685555160734
+    second: My_Objects_60
+  - first:
+      213: -1023783394887927057
+    second: My_Objects_61
+  - first:
+      213: 2181840643741895198
+    second: My_Objects_62
+  - first:
+      213: -6784433786280524992
+    second: My_Objects_9
+  - first:
+      213: 8830133577416052093
+    second: My_Objects_10
+  - first:
+      213: -5723597366567821021
+    second: My_Objects_11
+  - first:
+      213: -1479853046595090754
+    second: FullHeart-UI
+  - first:
+      213: -3543221450395477029
+    second: HalfHeart-UI
+  - first:
+      213: -4701416980720664593
+    second: EmptyHeart-UI
+  - first:
+      213: -266545835155719752
+    second: QuestionMark
+  - first:
+      213: -5804595469900893710
+    second: My_Objects_16
+  - first:
+      213: -6928052911238482106
+    second: CoinUI
+  - first:
+      213: 6555681906886368477
+    second: My_Objects_18
+  - first:
+      213: -3836127298914566656
+    second: My_Objects_19
+  - first:
+      213: -6954733049747904991
+    second: Coin1
+  - first:
+      213: -2852826946046558597
+    second: Coin2
+  - first:
+      213: -647261668602762358
+    second: Coin3
+  - first:
+      213: 8658484332429568845
+    second: Coin4
+  - first:
+      213: -9023750157550095077
+    second: Heart1
+  - first:
+      213: -6050288208643476920
+    second: Heart2
+  - first:
+      213: -7311097239248954545
+    second: Heart3
+  - first:
+      213: 5990569321907763835
+    second: Heart4
+  - first:
+      213: -4891831399219710208
+    second: ExclamationMark
+  - first:
+      213: 1994630723699197875
+    second: My_Objects_29
+  - first:
+      213: 1570626099584774460
+    second: My_Objects_30
+  - first:
+      213: -7822830508671571780
+    second: WoodenSword-Item
+  - first:
+      213: 4067773594514448417
+    second: My_Objects_32
+  - first:
+      213: -4558232209715114865
+    second: My_Objects_33
+  - first:
+      213: -5269192214832121480
+    second: Bed-messy
+  - first:
+      213: 5003445841575756769
+    second: Cloak
+  - first:
+      213: 7190790653063290313
+    second: DialogueBox1
+  - first:
+      213: -6464501249535109360
+    second: My_Objects_38
+  - first:
+      213: 2109841042774184445
+    second: My_Objects_51
+  - first:
+      213: -1974525992322287287
+    second: My_Objects_52
+  - first:
+      213: 7028413376605929474
+    second: My_Objects_53
+  - first:
+      213: 1666154736310894882
+    second: My_Objects_54
+  - first:
+      213: 6696595098643098379
+    second: My_Objects_55
+  - first:
+      213: -5956714075601140453
+    second: My_Objects_56
+  - first:
+      213: 3497128166742044740
+    second: My_Objects_57
+  - first:
+      213: 7067179617157570602
+    second: My_Objects_58
+  - first:
+      213: 7190790653063290313
+    second: Sign
+  - first:
+      213: 6619258743301971323
+    second: Key
+  - first:
+      213: -1479853046595090754
+    second: My_Objects_12
+  - first:
+      213: -3543221450395477029
+    second: My_Objects_13
+  - first:
+      213: -4701416980720664593
+    second: My_Objects_14
+  - first:
+      213: -6928052911238482106
+    second: My_Objects_17
+  - first:
+      213: -6954733049747904991
+    second: My_Objects_20
+  - first:
+      213: -2852826946046558597
+    second: My_Objects_21
+  - first:
+      213: -647261668602762358
+    second: My_Objects_22
+  - first:
+      213: 8658484332429568845
+    second: My_Objects_23
+  - first:
+      213: -9023750157550095077
+    second: My_Objects_24
+  - first:
+      213: -6050288208643476920
+    second: My_Objects_25
+  - first:
+      213: -7311097239248954545
+    second: My_Objects_26
+  - first:
+      213: 5990569321907763835
+    second: Health Potion
+  - first:
+      213: -4891831399219710208
+    second: My_Objects_28
+  - first:
+      213: 4940754522432900189
+    second: My_Objects_12
+  - first:
+      213: 7748683788887112645
+    second: My_Objects_13
+  - first:
+      213: -8180750698342511238
+    second: My_Objects_14
+  - first:
+      213: -7161586790307791028
+    second: My_Objects_15
+  - first:
+      213: -1026643620574847272
+    second: Fathers Sword
+  - first:
+      213: -1451988095831186665
+    second: Large Health Potion
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: My_Objects_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0313644091b8690800000000000000
+      internalID: -7598952440109387544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d0eec102385ff10800000000000000
+      internalID: 2302890958417431902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264768c584f5a2af0800000000000000
+      internalID: -420418850811120542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a271105841fe6e0800000000000000
+      internalID: -1806202364070778285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9174c8afe014d60800000000000000
+      internalID: 7872590092878420464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2911e8bc505c42410800000000000000
+      internalID: 1451501608600736146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a49cb5a9157d90800000000000000
+      internalID: -7100741037855561704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50d741d50860a80800000000000000
+      internalID: -8500966109351180885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d150e9dbaed9aff00800000000000000
+      internalID: 1151406286275740957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434796ba69d8d1a0800000000000000
+      internalID: -6784433786280524992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d022164bfea8a70800000000000000
+      internalID: 8830133577416052093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3212d502582b190b0800000000000000
+      internalID: -5723597366567821021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f137b79c2fe17fa0800000000000000
+      internalID: -5804595469900893710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcda68f5f57afa50800000000000000
+      internalID: 6555681906886368477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb40bdb8653cac0800000000000000
+      internalID: -3836127298914566656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52ac26c12eb9780800000000000000
+      internalID: -8675091645654751791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSword-Item
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f171b0f70aeaba910800000000000000
+      internalID: 1849764076315154207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bed-messy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683817e0f923fb70800000000000000
+      internalID: 8931528600651839585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloak
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd24a670a57e7c50800000000000000
+      internalID: 6664893830600601081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialogueBox1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4655623f549a1160800000000000000
+      internalID: 6997068107661792847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialogueBox2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 376
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d1c9d1bf247da0800000000000000
+      internalID: -5948076766940507266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd59022002dac360800000000000000
+      internalID: 7190790653063290313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d99e6b1c45cdb50800000000000000
+      internalID: 6619258743301971323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExclamationMark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997104dc51dda2a00800000000000000
+      internalID: 732640975108708249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c84089f06119440800000000000000
+      internalID: 4940754522432900189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb1790adad88b60800000000000000
+      internalID: 7748683788887112645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb72b4a2631ceb0800000000000000
+      internalID: -4701416980720664593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff29702ceec9c90800000000000000
+      internalID: -7161586790307791028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f488659c9adf90800000000000000
+      internalID: -6928052911238482106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266b169323db7f90800000000000000
+      internalID: -6954733049747904991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e7b3be109b868d0800000000000000
+      internalID: -2852826946046558597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ba43611f67407f0800000000000000
+      internalID: -647261668602762358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4befbf20ad192870800000000000000
+      internalID: 8658484332429568845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f955aa0335c280800000000000000
+      internalID: -9023750157550095077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84232171eee090ca0800000000000000
+      internalID: -6050288208643476920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: My_Objects_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 376
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b1a38fbc3c98a90800000000000000
+      internalID: -7311097239248954545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health Potion
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a3aa21f07c22350800000000000000
+      internalID: 5990569321907763835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fathers Sword
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de17b40111a0c1f0800000000000000
+      internalID: -1026643620574847272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Health Potion
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e2e1158089dbe0800000000000000
+      internalID: -1451988095831186665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

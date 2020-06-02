@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c05036d27e25d184e85c05b72752467a, type: 3}
+  m_Name: Wooden Sword
+  m_EditorClassIdentifier: 
+  mySprite: {fileID: 1849764076315154207, guid: 1547c4dd88e1cc544990bf3138c5ff66,
+    type: 3}
+  myName: Wooden Sword
+  myDescription: A sturdy wooden sword, used for practice.
+  isUsable: 0
+  isUnique: 1
+  numberHeld: 0
