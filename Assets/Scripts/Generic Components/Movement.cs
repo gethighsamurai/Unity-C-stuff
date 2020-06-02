@@ -9,6 +9,7 @@ public class Movement : MonoBehaviour
 
     public void Motion(Vector2 direction)
     {
+        // a random comment
         direction = direction.normalized;
         myRigidbody.velocity = direction * speed;
     }
